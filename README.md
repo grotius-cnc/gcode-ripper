@@ -1,11 +1,19 @@
 # gcode-ripper
-Cad viewer. Can read gcode data from `.ngc .txt .gcode` files and export the content int dxf format. 
-Supported gcode commands : 
+Cad viewer. Can read gcode data from 
 
-  `G0` 
-  `G1` 
-  `G2` 
-  `G3`
+  `.ngc` 
+  `.txt` 
+  `.gcode` 
+  
+  files and export the content into `.dxf` format. 
+  It can combine different loaded inputs models and export it to one `.dxf` output file.
+  
+Gcode commands that will be processed by the program : 
+
+  `G0 rapid` 
+  `G1 line` 
+  `G2 cw arc` 
+  `G3 ccw arc`
   
 Dxf output : 
 
