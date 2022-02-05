@@ -13,4 +13,4 @@ Dxf output :
   `2d arc's`
   `2d circles`
 
-![gcode-ripper](https://user-images.githubusercontent.com/44880102/152658906-8eecb001-1464-4ff4-9083-4b6363048b3e.jpg)
+![screen](https://user-images.githubusercontent.com/44880102/152659199-fb7a922d-f2d6-464f-977a-9c23f2b298f2.jpg)
