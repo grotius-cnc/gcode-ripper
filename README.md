@@ -1,4 +1,4 @@
-# gcode-ripper
+# gcode-ripper [gpl2]
 Cad viewer. Can read gcode data from 
 
   `.ngc` 
