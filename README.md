@@ -1,4 +1,8 @@
 # gcode-ripper [gpl2]
+
+[![Github All Releases](https://img.shields.io/github/downloads/grotius-cnc/gcode-ripper/total.svg)]()
+
+
 Cad viewer. Can read gcode data from 
 
   `.ngc` 
